@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wenqin on Home</title>
+    <link>https://Wenqin-Du.github.io/portfolio/</link>
+    <description>Recent content in Wenqin on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 Jul 2020 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://Wenqin-Du.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test NN</title>
+      <link>https://Wenqin-Du.github.io/portfolio/post/proj-1/</link>
+      <pubDate>Thu, 16 Jul 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://Wenqin-Du.github.io/portfolio/post/proj-1/</guid>
+      <description>Model summary.
+Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Award</title>
+      <link>https://Wenqin-Du.github.io/portfolio/award/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Wenqin-Du.github.io/portfolio/award/</guid>
+      <description>Graybill/Boes Award, 2020
+Outstanding graduate student in Statistics demonstrating excellence in linear models and/or exhibiting excellence in high teaching standards
+Outstanding Graduates of SiChuan University, 2018
+Meritorious Winner of Interdisciplinary Contest In Modeling, 2017
+Our team built and analyzed a model of urban population growth in cities.
+Successful Participant of Mathematical Contest In Modeling, 2016
+First Class Scholarship of SiChuan University, 2016
+Top 5% students</description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>https://Wenqin-Du.github.io/portfolio/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Wenqin-Du.github.io/portfolio/experience/</guid>
+      <description>Graduate Research and Teaching Assistant, 2018 - present
+Department of Statistics, Colorado State University
+ Serve as course instructor for Introduction to Biostatistics (STAT 307) and conduct weekly review sessions in Statistics Success Center Direct weekly recitations for Statistics for Business Students (STAT 204) Grade for Statistics for Design and Data Analysis for Researchers (STAT 511) and Statistical Data Analysis (STAT 341)  Member of Orienteering Team, 2014 - 2018</description>
+    </item>
+    
+  </channel>
+</rss>
