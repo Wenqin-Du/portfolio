@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Home</title>
+    <title>Projects on Wenqin</title>
     <link>https://Wenqin-Du.github.io/portfolio/post/</link>
-    <description>Recent content in Projects on Home</description>
+    <description>Recent content in Projects on Wenqin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Jan 2017 12:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://Wenqin-Du.github.io/portfolio/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>One for Chengdu</title>
+      <link>https://Wenqin-Du.github.io/portfolio/post/chengdu/</link>
+      <pubDate>Sat, 18 Jul 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://Wenqin-Du.github.io/portfolio/post/chengdu/</guid>
+      <description>&lt;h3 id=&#34;not-exactly-a-project-in-the-_project-section_-the-one-and-only&#34;&gt;Not exactly a project in the &lt;em&gt;Project section&lt;/em&gt;. &amp;ldquo;The One and Only.&amp;rdquo;&lt;/h3&gt;</description>
+    </item>
     
     <item>
       <title>Test NN</title>
