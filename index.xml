@@ -6,7 +6,7 @@
     <description>Recent content in Home on Wenqin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Jul 2020 10:58:08 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2020 10:58:08 -0400</lastBuildDate>
     
 	<atom:link href="https://Wenqin-Du.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,20 +14,19 @@
     <item>
       <title>One for Chengdu</title>
       <link>https://Wenqin-Du.github.io/portfolio/post/chengdu/</link>
-      <pubDate>Sun, 19 Jul 2020 10:58:08 -0400</pubDate>
+      <pubDate>Sun, 26 Jul 2020 10:58:08 -0400</pubDate>
       
       <guid>https://Wenqin-Du.github.io/portfolio/post/chengdu/</guid>
       <description>&lt;h3 id=&#34;not-exactly-a-project-in-the-_project-section_-the-one-and-only&#34;&gt;Not exactly a project in the &lt;em&gt;Project section&lt;/em&gt;. &amp;ldquo;The One and Only.&amp;rdquo;&lt;/h3&gt;</description>
     </item>
     
     <item>
-      <title>Test NN</title>
+      <title>Titanic: Machine Learning from Disaster</title>
       <link>https://Wenqin-Du.github.io/portfolio/post/proj-1/</link>
       <pubDate>Thu, 16 Jul 2020 10:58:08 -0400</pubDate>
       
       <guid>https://Wenqin-Du.github.io/portfolio/post/proj-1/</guid>
-      <description>Model summary. Attempt 2.
-Link to GitHub Repository</description>
+      <description>&lt;p&gt;&lt;em&gt;Coded shallow NN manually and used different tools to predict which passengers survived the Titanic shipwreck.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -54,7 +53,7 @@ Top 5% students</description>
       <guid>https://Wenqin-Du.github.io/portfolio/experience/</guid>
       <description>Graduate Research and Teaching Assistant, 2018 - present
 Department of Statistics, Colorado State University
- Serve as course instructor for Introduction to Biostatistics (STAT 307) and conduct weekly review sessions in Statistics Success Center Direct weekly recitations for Statistics for Business Students (STAT 204) Grade for Statistics for Design and Data Analysis for Researchers (STAT 511) and Statistical Data Analysis (STAT 341)  Member of Orienteering Team, 2014 - 2018</description>
+ Serve as course instructor for Introduction to Biostatistics (STAT 307) and conduct weekly review sessions in Statistics Success Center Direct weekly recitations for Statistics for Business Students (STAT 204) and General Statistics (STAT 201) Grade for Statistics for Design and Data Analysis for Researchers (STAT 511) and Statistical Data Analysis (STAT 341)  Member of Orienteering Team, 2014 - 2018</description>
     </item>
     
   </channel>
